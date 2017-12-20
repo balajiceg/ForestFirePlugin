@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/forest_fire_modelling" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
